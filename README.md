@@ -1,1 +1,1 @@
-# analyticsNotes
+# mathematics of analytics class notes
